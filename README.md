@@ -1,4 +1,4 @@
-# Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
+# Ex.No.6 AI-Assisted Programming and Debugging
 
 # Date:
 # Register no.
@@ -9,7 +9,23 @@
 # Explanation:
 Experiment the persona pattern as a programmer for any specific applications related with your interesting area. 
 Generate the outoput using more than one AI tool and based on the code generation analyse and discussing that. 
+Learnerss generate
 
+Python
+C
+Java
+using AI.
+
+Then
+
+identify bugs
+optimise code
+explain complexity
+generate unit tests
+Finally compare manual coding versus AI-assisted coding. 
+Deliverable
+
+Code quality analysis.
 # Conclusion:
 
 
